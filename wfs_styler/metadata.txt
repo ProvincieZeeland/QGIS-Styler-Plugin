@@ -6,21 +6,22 @@ about=If an OGC service is hosting data both as WMS and WFS layers, this plugin
     (SLD's) and sets the style to the WFS.
 
     This plugin was sponsored by Provincie Zeeland, The Netherlands.
-version=1.0.0
+version=1.0.1
 qgisMinimumVersion=3.22
 qgisMaximumVersion=3.99
 author=Raymond Nijssen
 email=r.nijssen@terglobo.nl
 
-tracker=https://github.com/raymondnijssen/wfs_styler_qgis_plugin/issues
-repository=https://github.com/raymondnijssen/wfs_styler_qgis_plugin
-homepage=https://github.com/raymondnijssen/wfs_styler_qgis_plugin
+tracker=https://github.com/ProvincieZeeland/wfs_styler_qgis_plugin/issues
+repository=https://github.com/ProvincieZeeland/wfs_styler_qgis_plugin
+homepage=https://github.com/ProvincieZeeland/wfs_styler_qgis_plugin
 
 changelog=
+    1.0.1   (2024-01-26) Code transferred to Zeeland github repository
     1.0.0   (2024-01-11) Official first release
 
 # Tags are comma separated without spaces. (Spaces are allowed within the tag.)
-tags=ogc,wfs,wms,sld,style,styler,geoserver
+tags=ogc,wfs,wms,sld,style,styler,geoserver,mapserver
 
 category=Plugins
 icon=icon.svg
